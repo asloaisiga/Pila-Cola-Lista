@@ -49,7 +49,7 @@ namespace caso_3
                     return;
                 }
 
-                // 🚫 Validar que no sea un número negativo
+                //  Validar que no sea un número negativo
                 if (id < 0)
                 {
                     MessageBox.Show("El ID no puede ser un número negativo.");
@@ -84,7 +84,7 @@ namespace caso_3
                 return;
             }
 
-            // 🚫 Validar que no sea negativo
+            //  Validar que no sea negativo
             if (id < 0)
             {
                 MessageBox.Show("El ID no puede ser negativo.");
@@ -130,7 +130,7 @@ namespace caso_3
         // MOSTRAR TODOS
         private void button4_Click(object sender, EventArgs e)
         {
-            // ⚠️ Validar si la lista está vacía
+            //  Validar si la lista está vacía
             if (catalogo.Count == 0)
             {
                 MessageBox.Show("La lista está vacía. Agrega programas antes de mostrar todos.");
