@@ -1,0 +1,11 @@
+C:\Users\Usuario\OneDrive\Documentos\prograG5\caso_estudio_3\caso_3\caso_3\obj\Debug\caso_3.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Documentos\prograG5\caso_estudio_3\caso_3\caso_3\obj\Debug\caso_3.Form1.resources
+C:\Users\Usuario\OneDrive\Documentos\prograG5\caso_estudio_3\caso_3\caso_3\obj\Debug\caso_3.Properties.Resources.resources
+C:\Users\Usuario\OneDrive\Documentos\prograG5\caso_estudio_3\caso_3\caso_3\obj\Debug\caso_3.csproj.GenerateResource.cache
+C:\Users\Usuario\OneDrive\Documentos\prograG5\caso_estudio_3\caso_3\caso_3\obj\Debug\caso_3.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Documentos\prograG5\caso_estudio_3\caso_3\caso_3\bin\Debug\caso_3.exe.config
+C:\Users\Usuario\OneDrive\Documentos\prograG5\caso_estudio_3\caso_3\caso_3\bin\Debug\caso_3.exe
+C:\Users\Usuario\OneDrive\Documentos\prograG5\caso_estudio_3\caso_3\caso_3\bin\Debug\caso_3.pdb
+C:\Users\Usuario\OneDrive\Documentos\prograG5\caso_estudio_3\caso_3\caso_3\obj\Debug\caso_3.exe
+C:\Users\Usuario\OneDrive\Documentos\prograG5\caso_estudio_3\caso_3\caso_3\obj\Debug\caso_3.pdb
+C:\Users\Usuario\OneDrive\Documentos\prograG5\caso_estudio_3\caso_3\caso_3\obj\Debug\caso_3.exe.config
