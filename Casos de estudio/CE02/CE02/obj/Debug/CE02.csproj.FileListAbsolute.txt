@@ -1,0 +1,11 @@
+C:\Users\HP\OneDrive\Documents\II SEMESTRE\PROGRAMACION ESTRUCTURADA\Casos de estudio\CE02\CE02\bin\Debug\CE02.exe.config
+C:\Users\HP\OneDrive\Documents\II SEMESTRE\PROGRAMACION ESTRUCTURADA\Casos de estudio\CE02\CE02\bin\Debug\CE02.exe
+C:\Users\HP\OneDrive\Documents\II SEMESTRE\PROGRAMACION ESTRUCTURADA\Casos de estudio\CE02\CE02\bin\Debug\CE02.pdb
+C:\Users\HP\OneDrive\Documents\II SEMESTRE\PROGRAMACION ESTRUCTURADA\Casos de estudio\CE02\CE02\obj\Debug\CE02.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Documents\II SEMESTRE\PROGRAMACION ESTRUCTURADA\Casos de estudio\CE02\CE02\obj\Debug\CE02.Form1.resources
+C:\Users\HP\OneDrive\Documents\II SEMESTRE\PROGRAMACION ESTRUCTURADA\Casos de estudio\CE02\CE02\obj\Debug\CE02.Properties.Resources.resources
+C:\Users\HP\OneDrive\Documents\II SEMESTRE\PROGRAMACION ESTRUCTURADA\Casos de estudio\CE02\CE02\obj\Debug\CE02.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Documents\II SEMESTRE\PROGRAMACION ESTRUCTURADA\Casos de estudio\CE02\CE02\obj\Debug\CE02.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Documents\II SEMESTRE\PROGRAMACION ESTRUCTURADA\Casos de estudio\CE02\CE02\obj\Debug\CE02.exe
+C:\Users\HP\OneDrive\Documents\II SEMESTRE\PROGRAMACION ESTRUCTURADA\Casos de estudio\CE02\CE02\obj\Debug\CE02.pdb
+C:\Users\HP\OneDrive\Documents\II SEMESTRE\PROGRAMACION ESTRUCTURADA\Casos de estudio\CE02\CE02\obj\Debug\CE02.exe.config
